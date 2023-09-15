@@ -1,6 +1,6 @@
 nome = "Caique Rian Boaventura Barbuda"
 altura = 1.88
-peso = 150
+peso = 90
 imc = peso / (altura * altura)
 
 
